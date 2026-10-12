@@ -2,7 +2,7 @@
 
 Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
 
-Nama / NIM  : Hanifah Aulia Ramadhani / 2501010035
+Nama / NIM  : I Putu Wira Astina Rasmawan / 2501010098
 
 Tujuan      : Memahami konsep dasar dan alur pembuatan struktur data acquisition
 
